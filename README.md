@@ -1,19 +1,16 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
 # _Hello Friends_
 
 ## Welcome to the GitHub of Vance Denson
 
 #### Great:
-*Front-end Developer
-*Father
+* Front-end Developer
+* Father
 #### Mediocre:
-*Health food nut
+* Health food nut
 #### Horrible:
-*undefined
+* undefined
 
 <!--
 **vance21017/vance21017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
