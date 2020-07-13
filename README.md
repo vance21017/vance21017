@@ -1,4 +1,13 @@
-### Hi there 👋
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text][logo]
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+# _Hello Friends_
+
+## Welcome to the GitHub of Vance Denson
+
+#### __Geat front-end Developer, Great father, Mediocre health food nut
 
 <!--
 **vance21017/vance21017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
