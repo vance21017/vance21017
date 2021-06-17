@@ -4,7 +4,7 @@
 
 ## Welcome to the GitHub of Vance Denson
 
-* Front-end development :computer:
+* Fullstack :computer:
 * Fatherhood 🔭
 
 <!--
